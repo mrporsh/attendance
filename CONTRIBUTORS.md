@@ -164,3 +164,12 @@
 - GitHub: [Loldozen](https://github.com/Loldozen)
 - Twitter: [@_loldozen_](https://twitter.com/_loldozen_)
 
+
+#### Name: [Abdulrazaq Habib](https://github.com/mrporsh)
+- Place: Suleja, Niger State, Nigeria
+- Bio: The programmer next door, a full stack web developer.
+- Stack: Python (Flask, Django)
+- Department: Information and Media Technology.
+- Interest: Volley ball, Gaming
+- GitHub: [mrporsh](https://github.com/mrporsh)
+- Twitter: [@AbdulrazaqHabib](https://twitter.com/AbdulrazaqHabib?s=09)
